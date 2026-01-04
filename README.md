@@ -12,14 +12,14 @@ Extension for [Playnite](https://playnite.link).
 ## Informations
 The plugin gets and view the list of DLC and see which ones you own.
 
-<a href="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/master/forum/main_01.jpg?raw=true">
+<a href="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/main/forum/main_01.jpg?raw=true">
   <picture>
-    <img alt="main_01" src="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/master/forum/main_01.jpg?raw=true" height="150px">
+    <img alt="main_01" src="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/main/forum/main_01.jpg?raw=true" height="150px">
   </picture>
 </a>
-<a href="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/master/forum/settings_01.jpg?raw=true">
+<a href="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/main/forum/settings_01.jpg?raw=true">
   <picture>
-    <img alt="settings_01" src="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/master/forum/settings_01.jpg?raw=true" height="150px">
+    <img alt="settings_01" src="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/main/forum/settings_01.jpg?raw=true" height="150px">
   </picture>
 </a>
 
@@ -32,4 +32,4 @@ You can help to translate the extensions do different languages via the project 
 
 ## More
 Remember to support [Playnite](https://www.patreon.com/playnite) and the [data site](https://steamdb.info/donate).  
-<a href='https://ko-fi.com/lacro59'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<br><a href='https://ko-fi.com/lacro59'><img height='35' style='border:0px;height:46px;' src='https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
