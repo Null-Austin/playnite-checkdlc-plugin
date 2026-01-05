@@ -33,7 +33,7 @@ With this plugin you can
 If you would like to help, by translating our extension along with some other ones, you can find us at [crowdin](https://crowdin.com/project/playnite-extensions)!
 
 ## Other Support
-Supporting [Playnite](https://www.patreon.com/playnite) and [SteamDB](https://steamdb.info/donate), would help our journey along with theirs!  
+Supporting [Playnite](https://www.patreon.com/playnite) and [SteamDB](https://steamdb.info/donate), would help our journey along with theirs.
 
 <br> <!-- fake padding 🤷‍♂️ -->
 <div align="center"> <!-- centering it cause i thought it would look good -->
