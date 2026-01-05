@@ -10,7 +10,7 @@
 An extension for the popular game library, [Playnite](https://playnite.link).  
 
 ## Informations
-This pluging helps you find your owned extensions across your many games, inside of Playnite.
+This plugin helps you find your owned extensions across your many games, inside of Playnite.
 
 <div align="left">
   <a href="https://github.com/Lacro59/playnite-checkdlc-plugin/blob/main/forum/main_01.jpg?raw=true">
